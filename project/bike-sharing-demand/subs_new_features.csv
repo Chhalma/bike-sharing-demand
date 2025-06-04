@@ -1,0 +1,11 @@
+fileName,date,description,status,publicScore,privateScore
+submission_new_hpo.csv,2025-06-03 22:11:46.993000,new features with hyperparameters,SubmissionStatus.COMPLETE,0.61937,0.61937
+submission_new_hpo.csv,2025-06-03 21:57:29,new features with hyperparameters,SubmissionStatus.COMPLETE,0.52238,0.52238
+submission_new_features.csv,2025-06-03 11:36:24.053000,new features,SubmissionStatus.COMPLETE,0.62230,0.62230
+submission_new_hpo.csv,2025-06-03 10:47:01,new features with hyperparameters,SubmissionStatus.COMPLETE,1.43255,1.43255
+submission_new_features.csv,2025-06-03 09:29:52.303000,new features,SubmissionStatus.COMPLETE,1.79422,1.79422
+submission.csv,2025-06-03 09:03:01.563000,first raw submission,SubmissionStatus.COMPLETE,1.79778,1.79778
+submission.csv,2025-06-03 09:02:50.803000,first raw submission,SubmissionStatus.COMPLETE,1.79778,1.79778
+submission.csv,2025-06-02 22:32:54.203000,first raw submission,SubmissionStatus.COMPLETE,1.79581,1.79581
+submission.csv,2025-06-02 22:23:52.857000,first raw submission,SubmissionStatus.COMPLETE,1.79581,1.79581
+submission.csv,2025-06-02 22:14:57,first raw submission,SubmissionStatus.COMPLETE,1.79581,1.79581
