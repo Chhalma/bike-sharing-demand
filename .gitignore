@@ -8,8 +8,9 @@ env/
 .bikes/  # (Your custom env folder - keep this if you use it)
 #================
 #.pkl files......
+# .gitignore
 *.pkl
-
+*.pkl.*
 # ==================
 # Kaggle & Secrets
 # ==================
