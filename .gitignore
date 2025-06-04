@@ -1,0 +1,21 @@
+# ================
+# Virtual environments
+# ================
+.env
+.venv/
+venv/
+env/
+.bikes/  # (Your custom env folder - keep this if you use it)
+
+
+# ==================
+# Kaggle & Secrets
+# ==================
+.kaggle/
+kaggle.json
+
+# =============
+# OS generated
+# =============
+.DS_Store
+Thumbs.db
